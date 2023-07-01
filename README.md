@@ -1,4 +1,12 @@
 # Etnical-Fashion-Site
+Only in the live website , the login page redirects you to the main page .Enter the login credentials 
+
+Username - admin
+
+Password - password
+
+Make sure it is entered properly .Hence access our website!
+
 Installation process:
 
 1.In your web browser , open phpmyadmin ->phpmyadmin.net
